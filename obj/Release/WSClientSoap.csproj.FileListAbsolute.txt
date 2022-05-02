@@ -1,0 +1,7 @@
+C:\Users\maigr\OneDrive\Escritorio\RCD-t1\WSClientSoap\WSClientSoap\bin\WSClientSoap.dll.config
+C:\Users\maigr\OneDrive\Escritorio\RCD-t1\WSClientSoap\WSClientSoap\bin\WSClientSoap.dll
+C:\Users\maigr\OneDrive\Escritorio\RCD-t1\WSClientSoap\WSClientSoap\bin\WSClientSoap.pdb
+C:\Users\maigr\OneDrive\Escritorio\RCD-t1\WSClientSoap\WSClientSoap\obj\Release\WSClientSoap.csproj.AssemblyReference.cache
+C:\Users\maigr\OneDrive\Escritorio\RCD-t1\WSClientSoap\WSClientSoap\obj\Release\WSClientSoap.csproj.CoreCompileInputs.cache
+C:\Users\maigr\OneDrive\Escritorio\RCD-t1\WSClientSoap\WSClientSoap\obj\Release\WSClientSoap.dll
+C:\Users\maigr\OneDrive\Escritorio\RCD-t1\WSClientSoap\WSClientSoap\obj\Release\WSClientSoap.pdb
