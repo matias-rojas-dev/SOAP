@@ -46,7 +46,7 @@ namespace WSClientSoap
             } 
             catch(DirectoryNotFoundException ex)
             {
-                throw new Exception(ex.Message);
+                throw new NullReferenceException(ex.Message);
             }
         }
         #endregion
