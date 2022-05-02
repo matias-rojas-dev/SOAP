@@ -44,9 +44,9 @@ namespace WSClientSoap
 
                 return true;
             } 
-            catch(DirectoryNotFoundException ex)
+            catch(DirectoryNotFoundException)
             {
-                throw new NullReferenceException(ex.Message);
+                return false;
             }
         }
         #endregion
